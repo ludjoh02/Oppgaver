@@ -23,10 +23,21 @@ header {
 	align-content: center;
 	align-items: center;
 	padding: 1rem; 
+
+	ul {
+		display: flex;
+		flex-direction: row;
+		list-style-type: none;
+		gap: 1rem; 
+	}
 	
 }
 
+
+
+
 main {
+
 	
 }
 
